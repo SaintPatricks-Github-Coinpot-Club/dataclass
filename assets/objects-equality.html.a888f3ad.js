@@ -1,0 +1,1 @@
+const e={key:"v-cf73248c",path:"/guide/objects-equality.html",title:"Objects Equality",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"guide/objects-equality.md",git:{updatedTime:1634082528e3,contributors:[{name:"Alexey Raspopov",email:"alexey.raspopov@datarobot.com",commits:1}]}};export{e as data};

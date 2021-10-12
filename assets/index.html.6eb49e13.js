@@ -1,0 +1,1 @@
+const e={key:"v-fffb8e28",path:"/guide/",title:"Introduction",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Prior Art",slug:"prior-art",children:[]}],filePathRelative:"guide/index.md",git:{updatedTime:1634082528e3,contributors:[{name:"Alexey Raspopov",email:"alexey.raspopov@datarobot.com",commits:1}]}};export{e as data};

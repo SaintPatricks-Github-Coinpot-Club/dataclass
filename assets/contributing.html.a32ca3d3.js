@@ -1,0 +1,1 @@
+const t={key:"v-d7fa887a",path:"/guide/contributing.html",title:"Contributing",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"guide/contributing.md",git:{updatedTime:1634082528e3,contributors:[{name:"Alexey Raspopov",email:"alexey.raspopov@datarobot.com",commits:1}]}};export{t as data};
